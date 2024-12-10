@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sravya-212
+- 👋 Hi, I’m Sravya
 - 👀 I’m interested in Full-Stack Blockchain Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Blockchain Niche
